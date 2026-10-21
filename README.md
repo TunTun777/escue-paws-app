@@ -1,1 +1,1 @@
-# escue-paws-app
+# rescue-paws-app
